@@ -22,7 +22,7 @@ div.header {
 /* Top table */
 div.top-table {
     width: 90%;
-    height: 525px;
+    height: 750px;
     margin: auto;
     border-width: 1px;
     border-color: #ffffff;
@@ -35,7 +35,7 @@ table.top-table {
 td.top-cell {
     vertical-align: top;
     padding: 10px;
-    height: 475px;
+    height: 650px;
 }
 td.top-picture {
     width: 250px;
@@ -57,17 +57,17 @@ h1.name {
     margin-bottom: 10px;
 }
 h1.bio-title {
-    font-size: 12pt;
+    font-size: 10pt;
 }
 span.top-header {
     text-align: left;
     font-weight: bold;
-    font-size: 14pt;
+    font-size: 10pt;
 }
 h1.top-header {
     margin-top: 5px;
     margin-bottom: 1px;
-    font-size: 14pt;
+    font-size: 10pt;
 }
 p.top-p {
     margin-left: 5px;
