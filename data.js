@@ -51,7 +51,7 @@ var data = [
     {
         name: "Ishan Gaur",
         email: "ishang@berkeley.edu",
-        photo: "TODO",
+        photo: "ishan_gaur.jpeg",
         website: "https://ishangaur.com",
         area: "AI for Science",
         location: "BAIR (8th floor, BWW)",
@@ -71,7 +71,7 @@ var data = [
     {
         name: "Shreya Shankar",
         email: "shreyashankar@berkeley.edu",
-        photo: "TODO",
+        photo: "shreya_shankar.png",
         website: "https://sh-reya.com/",
         area: "Data systems",
         location: "Berkeley, CA",
