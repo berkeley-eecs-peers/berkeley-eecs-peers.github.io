@@ -90,13 +90,13 @@ var data = [
     },
     {
         name: "Eric Rawn",
-        email: "TODO",
-        photo: "TODO",
-        website: "TODO",
-        area: "TODO",
-        location: "TODO",
-        fun_fact: "TODO",
-        bio: "TODO"
+        email: "erawn@berkeley.edu",
+        photo: "eric_rawn.png",
+        website: "https://ericrawn.info",
+        area: "Human-Computer Interaction + Programming Languages",
+        location: "Soda Hall (SLICE Lab)",
+        fun_fact: "I love listening to the radio! The Bay Area has a ton of amazing stations (and is where I get most of my new music from).",
+        bio: "Hey! My name is Eric (he/they), I’m a PhD student in human-computer interaction and programming languages. I study how scientists use programs in their everyday work, and figure out how to support them with new tools. I can talk about switching advisors midway through a PhD, navigating funding/TA’ing, doing interdisciplinary research and finding intellectual community in other departments, finding healthy routines, studying for the HCI prelim, making community among other grad students, finding a research direction that spoke to me, and being a queer student in computer science. Outside of work I love to cook, run in the Berkeley Hills, and watch bad reality television. In grad school I’ve also developed passions for woodworking, furniture refinishing (you can have nice furniture on a budget as a grad student if you want!), and sewing."
     },
     {
         name: "Ricardo Sandoval",
