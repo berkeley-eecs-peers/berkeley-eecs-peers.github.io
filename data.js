@@ -46,14 +46,86 @@ var data = [
         area: "Machine Learning, Low-resource speech NLP",
         location: "Berkeley",
         fun_fact: "I work with hundreds of languages in my research, with the goal of having NLP systems perform well in all of them.",
-        bio: "Peter is a PhD student researching machine learning and low-resource speech NLP."},
+        bio: "Peter is a PhD student researching machine learning and low-resource speech NLP."
+    },
     {
-        name: "Amit Kohli",
-        email: "apkohli@berkeley.edu",
-        photo: "amit_kohli.jpg",
-        website: "https://apkohli.com/",
-        area: "Computational imaging, optics, and statistics",
+        name: "Ishan Gaur",
+        email: "ishang@berkeley.edu",
+        photo: "TODO",
+        website: "https://ishangaur.com",
+        area: "AI for Science",
+        location: "BAIR (8th floor, BWW)",
+        fun_fact: "I’ve been building a massive Google Maps list of Bay Area restaurants—ask me for recs, or better yet, send me yours!",
+        bio: "Hi! I’m Ishan (he/him), a 2nd-year PhD student working with Jennifer Listgarten on AI for protein design. My research involves generative modeling methods like flow-matching and diffusion models, with a focus on building tools that can support protein engineering. I’m happy to talk about working across departments or institutions, navigating interdisciplinary research, and figuring things out along the way. Through my time here so far, I’ve experienced some struggles balancing health and work, a bit of imposter syndrome, and finding new communities in Berkeley to connect with. Outside of research, I like playing sports (especially tennis and basketball) with friends, sketching, and reading. During undergrad I was also very active in the startup/VC community, co-founded a company myself, and worked a bit in venture even leading up to starting grad school. I’m happy to chat with you about these topics or anything else that you’ve been experiencing as a grad student!"
+    },
+    {
+        name: "Tiffany Chien",
+        email: "tiffany_chien@berkeley.edu",
+        photo: "tiffany_chien.jpeg",
+        website: "",
+        area: "Computational Imaging",
+        location: "Cory Hall",
+        fun_fact: "One of my cat’s names is Meatball because when she arrived in my home I thought “oh, you’re a meatball”.",
+        bio: "Hello! My name is Tiffany (she/they) and I am a 5th year PhD student advised by Laura Waller. For research, I am advised by Laura Waller, working on computationally modeling motion and other dynamics in electron microscopy, to try to reliably see atoms in 3D. In the rest of my life, I like to climb, pet my cat, bake and eat baked goods, write haikus, and explore new kinds of arts and crafts. I really enjoy talking to other grad students about grad school, because I genuinely find it to be a great metaphor for life. I would be happy to talk about topics like the existential stresses of grad school (and life), navigating an unstructured/hands-off advisor environment, finding friends and queer (and not) community off campus, teaching as a GSI and over the summer as an instructor, adopting a diabetic cat, and really whatever else might be on your mind. Grad school and life are hard, so let’s not try to do it alone."
+    },
+    {
+        name: "Shreya Shankar",
+        email: "shreyashankar@berkeley.edu",
+        photo: "TODO",
+        website: "https://sh-reya.com/",
+        area: "Data systems",
+        location: "Berkeley, CA",
+        fun_fact: "I believe coffee is its own food group.",
+        bio: "I'm a 5th year PhD student in computer science advised by Aditya Parameswaran, interested in AI-powered, unstructured data analysis. I lead the DocETL research project and have lots of academic interests, including data systems, AI, and HCI. Outside of work, I love coffee and spending time with my dog. Happy to chat about research or how to balance research and life—I've been raising a puppy (who is 2 years old now!) and got married during grad school."
+    },
+    {
+        name: "Leyla Kabuli",
+        email: "lakabuli@berkeley.edu",
+        photo: "leyla_kabuli.png",
+        website: "https://lakabuli.github.io",
+        area: "Computational imaging, optics, information theory",
         location: "Cory 558",
-        fun_fact: "I play guitar and bass, and have a passion for producing and post-processing recorded music. I also dance Bhangra and run a free, biweekly Bhangra class in SF with some friends!",
-        bio: "My name is Amit Kohli, I am a 5th year PhD student at UC Berkeley advised by Professor Laura Waller. I work primarily in the field of computational imaging and have a particular interest at the intersection optics and statistics. The goal of my research is to design and analyze robust computational imaging systems—ones which enjoy algorithmic enhancements but remain impervious to the inevitability of system errors and imperfect models. Throughout my time at Berkeley, I've experienced picking between advisors, studying for prelims (signal processing), dealing with lots of work-from-home during covid, collaborating outside of my lab, and managing family/relationship commitments, among other things. I'm happy to chat about anything, whether it is personal or academic!"}
+        fun_fact: "I’m a semi-retired pianist. I also enjoy spending time outdoors cycling, climbing, hiking, and skiing.",
+        bio: "Hi, my name is Leyla Kabuli. I am a 5th year PhD student at UC Berkeley, advised by Professor Laura Waller. My research is in computational imaging, and I’m particularly interested in applications of information theory for designing imaging systems. I’ve been in Berkeley for a long time now (I was also an undergraduate student here) and have had many adventures and experiences along the way.  I’m happy to chat about anything that comes to mind - research, teaching, collaborations, work-life balance, hobbies, and more."
+    },
+    {
+        name: "Eric Rawn",
+        email: "TODO",
+        photo: "TODO",
+        website: "TODO",
+        area: "TODO",
+        location: "TODO",
+        fun_fact: "TODO",
+        bio: "TODO"
+    },
+    {
+        name: "Ricardo Sandoval",
+        email: "TODO",
+        photo: "TODO",
+        website: "TODO",
+        area: "TODO",
+        location: "TODO",
+        fun_fact: "TODO",
+        bio: "TODO"
+    },
+    {
+        name: "Ayesha Bajwa",
+        email: "TODO",
+        photo: "TODO",
+        website: "TODO",
+        area: "TODO",
+        location: "TODO",
+        fun_fact: "TODO",
+        bio: "TODO"
+    },
+    {
+        name: "Jessica Lee",
+        email: "TODO",
+        photo: "TODO",
+        website: "TODO",
+        area: "TODO",
+        location: "TODO",
+        fun_fact: "TODO",
+        bio: "TODO"
+    },
 ];
