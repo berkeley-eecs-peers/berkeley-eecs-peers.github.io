@@ -31,12 +31,12 @@ var data = [
     {
         name: "Serena Caraco",
         email: "caraco@berkeley.edu",
-        photo: "serena_caraco.jpg",
+        photo: "serena_caraco.png",
         website: "",
         area: "Software Engineering Education, Instructor Support Tools",
         location: "ACE Lab (w/ a hint of PLAIT)",
-        fun_fact: "The profile picture was taken in the historic Berkeley City Club! They offer pay-as-you-can community theater, different workshops and classes, and have a few small, public art exhibits (in addition to the legendary architecture)!",
-        bio: "I'm a fourth year PhD student at Berkeley - I love all things education, programming languages, and games. In terms of experience: I GSl'ed a (delightfully) nightmarish summer course, I took the HCl prelim (after a long torturous decision process), and I publicly transitioned (definitely still on going). I'm involved in the union and a couple affinity groups on campus. I love to chat, and am very open to emails or slacks (though please include \"popcorn\" in your intro so I know where you're coming from!). I'm still figuring out \"how to PhD,\" but with any luck my quals will be underway soon!"
+        fun_fact: "The profile photo was taken locally (see if you can place it) after a Laura Jane Grace concert! Though I’m usually a jazz person, I’m a big fan of hers, and particularly of the documentary she produced about the first trans Iditarod racer!",
+        bio: "I’m a fifth year PhD student at Berkeley - I love all things education, programming languages, and games. In terms of experience: I GSl’ed a couple summer courses, I took the HCl prelim (after a long torturous decision process), and I just finished a thread of research that lasted four years before launching the next one! I’m also involved in the union and a couple affinity groups on campus. I love to chat, and am very open to emails or slacks. I’m still figuring out “how to PhD,” but with any luck my quals will be underway soon!"
     },
     {
         name: "Peter Wu",
