@@ -106,3 +106,7 @@ td.bottom-picture {
     padding: 10px;
     cursor: pointer;
 }
+
+.last-updated {
+	text-align: center;
+}
