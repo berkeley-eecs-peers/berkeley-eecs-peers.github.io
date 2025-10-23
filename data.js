@@ -81,7 +81,7 @@ var data = [
     {
         name: "Leyla Kabuli",
         email: "lakabuli@berkeley.edu",
-        photo: "leyla_kabuli.png",
+        photo: "leyla_kabuli.jpg",
         website: "https://lakabuli.github.io",
         area: "Computational imaging, optics, information theory",
         location: "Cory 558",
@@ -97,6 +97,16 @@ var data = [
         location: "Soda Hall (SLICE Lab)",
         fun_fact: "I love listening to the radio! The Bay Area has a ton of amazing stations (and is where I get most of my new music from).",
         bio: "Hey! My name is Eric (he/they), I’m a PhD student in human-computer interaction and programming languages. I study how scientists use programs in their everyday work, and figure out how to support them with new tools. I can talk about switching advisors midway through a PhD, navigating funding/TA’ing, doing interdisciplinary research and finding intellectual community in other departments, finding healthy routines, studying for the HCI prelim, making community among other grad students, finding a research direction that spoke to me, and being a queer student in computer science. Outside of work I love to cook, run in the Berkeley Hills, and watch bad reality television. In grad school I’ve also developed passions for woodworking, furniture refinishing (you can have nice furniture on a budget as a grad student if you want!), and sewing."
+    },
+    {
+        name: "Jessica Lee",
+        email: "jess.lee@berkeley.edu",
+        photo: "jessica_lee.jpeg",
+        website: "https://imjal.github.io/",
+        area: "Graphics",
+        location: "BWW8 & Minor Hall",
+        fun_fact: "I got to show my research at the Exploratorium!",
+        bio: "I'm a 5th year PhD student interested in the intersection of graphics, vision science, and neuroscience. Work-wise I can talk about sustaining your interest on long-term projects, going from a pure software person to interfacing more with hardware, managing a large group of collaborators in different departments, and doing lots of seemingly non-EECS research in the EECS dept (I know ya'll exist). There are many things that I like to talk about outside of work, like making coffee and tea, my favorite restaurants in East Bay, backpacking and hiking around California, and maintaining a semi-long distance relationship from ugrad to now! I've also been attending Berkeley art studio classes for ceramics for 2+ years, and now I have my own studio at home. I'm happy to chat about anything, work or personal!"
     }
     // {
     //     name: "Ricardo Sandoval",
@@ -119,13 +129,4 @@ var data = [
     //     bio: "TODO"
     // },
     // {
-    //    name: "Jessica Lee",
-    //    email: "TODO",
-    //    photo: "TODO",
-    //    website: "TODO",
-    //    area: "TODO",
-    //    location: "TODO",
-    //    fun_fact: "TODO",
-    //    bio: "TODO"
-    //},
 ];
