@@ -103,7 +103,7 @@ var data = [
         email: "jess.lee@berkeley.edu",
         photo: "jessica_lee.jpeg",
         website: "https://imjal.github.io/",
-        area: "",
+        area: "Graphics",
         location: "BWW8 & Minor Hall",
         fun_fact: "I got to show my research at the Exploratorium!",
         bio: "I'm a 5th year PhD student interested in the intersection of graphics, vision science, and neuroscience. Work-wise I can talk about sustaining your interest on long-term projects, going from a pure software person to interfacing more with hardware, managing a large group of collaborators in different departments, and doing lots of seemingly non-EECS research in the EECS dept (I know ya'll exist). There are many things that I like to talk about outside of work, like making coffee and tea, my favorite restaurants in East Bay, backpacking and hiking around California, and maintaining a semi-long distance relationship from ugrad to now! I've also been attending Berkeley art studio classes for ceramics for 2+ years, and now I have my own studio at home. I'm happy to chat about anything, work or personal!"
