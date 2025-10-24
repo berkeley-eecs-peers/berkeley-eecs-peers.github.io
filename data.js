@@ -107,7 +107,17 @@ var data = [
         location: "BWW8 & Minor Hall",
         fun_fact: "I got to show my research at the Exploratorium!",
         bio: "I'm a 5th year PhD student interested in the intersection of graphics, vision science, and neuroscience. Work-wise I can talk about sustaining your interest on long-term projects, going from a pure software person to interfacing more with hardware, managing a large group of collaborators in different departments, and doing lots of seemingly non-EECS research in the EECS dept (I know ya'll exist). There are many things that I like to talk about outside of work, like making coffee and tea, my favorite restaurants in East Bay, backpacking and hiking around California, and maintaining a semi-long distance relationship from ugrad to now! I've also been attending Berkeley art studio classes for ceramics for 2+ years, and now I have my own studio at home. I'm happy to chat about anything, work or personal!"
-    }
+    },
+    {
+        name: "Ayesha Bajwa",
+        email: "",
+        photo: "ayesha_bajwa.png",
+        website: "https://ayesharbajwa.github.io/",
+        area: "",
+        location: "",
+        fun_fact: "I planted a few tiny citrus saplings in outdoor pots at the beginning of grad school, thinking I might get some fruit by the end. I’ve already been able to enjoy lemons, kumquats, and yuzu!",
+        bio: "I’m a 4th year PhD student in EECS, studying machine learning for computational biology. I’m particularly interested in developing and applying methods to understand gene regulation and the impacts of genetic variants, including how to best utilize uncertain predictions. I grew up in the Bay Area, and prior to grad school, I worked in biotech for several years. I'm happy to chat about embracing deeply interdisciplinary research, returning to school after several years in industry, getting married while in grad school, and really anything related to navigating life as a PhD student. Berkeley is a wonderful place to live, and work-life balance is important: in my free time, I've enjoyed ceramics, hiking, reading, dogsitting, coffee & tea rituals, riding public transit to explore new places, and trying new recipes with my spouse."
+    },
     // {
     //     name: "Ricardo Sandoval",
     //     email: "TODO",
@@ -118,15 +128,4 @@ var data = [
     //     fun_fact: "TODO",
     //     bio: "TODO"
     // },
-    // {
-    //     name: "Ayesha Bajwa",
-    //     email: "TODO",
-    //     photo: "TODO",
-    //     website: "TODO",
-    //     area: "TODO",
-    //     location: "TODO",
-    //     fun_fact: "TODO",
-    //     bio: "TODO"
-    // },
-    // {
 ];
