@@ -19,16 +19,6 @@ var data = [
         bio: "Hi there! I'm Justin (he/him), and I've been a CS PhD student at Berkeley since 2020. My research mission is to work with scientists to build programming systems *for* them and *with* them to empower them to write the code they need without having programming expertise. Outside of work, one of my main hobbies is music composition—and just engaging with music more generally, especially video game music! Regarding work topics, I'm happy to chat about topics like maintaining a healthy work-life balance, struggling to find an exciting research direction, doing interdisciplinary research (including with collaborators outside of EECS), diving into new research areas mid-PhD, mentoring undergraduate / 5th-year MS researchers, helping set up a positive research group culture, studying for the prelim exams, and feeling anxious about things like taking the prelim exam / giving oral presentations / receiving paper reviews. For outside of work topics, I'm also happy to chat about topics like maintaining a long-distance relationship, finding housing in the Bay Area, learning how to cook / meal prep, and exploring new hobbies (and maintaining old ones!) in grad school. But these topics are by no means exhaustive, and I'd really love to chat with you about whatever is on your mind! :-)"
     },
     {
-        name: "Hellina Hailu Nigatu",
-        email: "hellina_nigatu@berkeley.edu",
-        photo: "hellina_nigatu.jpeg",
-        website: "https://hhnigatu.github.io",
-        area: "Natural Language Processing (NLP) + human-computer interaction (HCI) + Ethical AI",
-        location: "Soda Hall, 5th floor (SLICE Lab)",
-        fun_fact: "I make my own Injera :-)))))",
-        bio: "Hello! My name is Hellina (she/her), and I am a 3rd year PhD student in the EECS department. My research is in the intersection of NLP, HCI and ethics; I am particularity interested in building language technologies for low-resourced language (languages that do not have a lot of available data) speakers and understanding the impact of current AI systems as it relates to low-resourced language speakers. In my free time, I mostly talk with my family, read books, or make Ethiopian coffee. I am also really interested in languages: I am learning Arabic this year . I have also started learning how to play a musical instrument called Masinqo. I am on the EB for the Black Graduate Engineering and Science Students (BGESS) organisation and I focus on increasing access to research opportunities to Black undergrads at Berkeley and beyond. I am happy to chat about research related stuff, pivoting during your PhD, BGESS stuff, international student life and dealing with homesickness  , languages, finding and being a mentor, prelims, culture (and culture shock!!), and anything else related to my experience as a grad student."
-    },
-    {
         name: "Serena Caraco",
         email: "caraco@berkeley.edu",
         photo: "serena_caraco.png",
