@@ -21,7 +21,7 @@ var data = [
     {
         name: "Serena Caraco",
         email: "caraco@berkeley.edu",
-        photo: "serena_caraco.png",
+        photo: "serena_caraco.jpg",
         website: "",
         area: "Software Engineering Education, Instructor Support Tools",
         location: "ACE Lab (w/ a hint of PLAIT)",
