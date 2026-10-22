@@ -14,7 +14,7 @@ var data = [
         photo: "justin_lubin.jpg",
         website: "https://jlubin.net",
         area: "Programming languages + human-computer interaction + biology",
-        location: "Soda Hall, 5th floor (SLICE Lab)",
+        location: "Gateway, floor 2",
         fun_fact: "My partner and I take care of two extremely precious cats!",
         bio: "Hi there! I'm Justin (he/him), and I've been a CS PhD student at Berkeley since 2020. My research mission is to work with scientists to build programming systems *for* them and *with* them to empower them to write the code they need without having programming expertise. Outside of work, one of my main hobbies is music composition—and just engaging with music more generally, especially video game music! Regarding work topics, I'm happy to chat about topics like maintaining a healthy work-life balance, struggling to find an exciting research direction, doing interdisciplinary research (including with collaborators outside of EECS), diving into new research areas mid-PhD, mentoring undergraduate / 5th-year MS researchers, helping set up a positive research group culture, studying for the prelim exams, and feeling anxious about things like taking the prelim exam / giving oral presentations / receiving paper reviews. For outside of work topics, I'm also happy to chat about topics like maintaining a long-distance relationship, finding housing in the Bay Area, learning how to cook / meal prep, and exploring new hobbies (and maintaining old ones!) in grad school. But these topics are by no means exhaustive, and I'd really love to chat with you about whatever is on your mind! :-)"
     },
