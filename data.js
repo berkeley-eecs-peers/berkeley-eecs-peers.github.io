@@ -108,6 +108,16 @@ var data = [
         fun_fact: "I planted a few tiny citrus saplings in outdoor pots at the beginning of grad school, thinking I might get some fruit by the end. I’ve already been able to enjoy lemons, kumquats, and yuzu!",
         bio: "I’m a 4th year PhD student in EECS, studying machine learning for computational biology. I’m particularly interested in developing and applying methods to understand gene regulation and the impacts of genetic variants, including how to best utilize uncertain predictions. I grew up in the Bay Area, and prior to grad school, I worked in biotech for several years. I'm happy to chat about embracing deeply interdisciplinary research, returning to school after several years in industry, getting married while in grad school, and really anything related to navigating life as a PhD student. Berkeley is a wonderful place to live, and work-life balance is important: in my free time, I've enjoyed ceramics, hiking, reading, dogsitting, coffee & tea rituals, riding public transit to explore new places, and trying new recipes with my spouse."
     },
+    {
+        name: "Kayo Yin",
+        email: "kayoyin@berkeley.edu",
+        photo: "kayo_yin.png",
+        website: "https://kayoyin.github.io/",
+        area: "AI safety, NLP",
+        location: "Gateway 4th floor",
+        fun_fact: "I was born in Japan and grew up in Paris, so I like to argue a lot but in a very polite way.",
+        bio: "Hi! I’m a 5th year PhD student advised by Jacob Steinhardt and Dan Klein. Currently, I study the risks of harmful AI manipulation and its influence on human cognition. Before that, I did research in interpretability, sign language models, psycholinguistics, and cognitive science. Outside of work, I love trying new things and have collected many hobbies as a result; current faves are playing chamber music, long-distance cycling, bikepacking, backcountry snowboarding, wingfoiling, meditation, fashion, and soccer. Happy to chat about anything! :)",
+    }
     // {
     //     name: "Ricardo Sandoval",
     //     email: "TODO",
